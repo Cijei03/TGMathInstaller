@@ -14,7 +14,7 @@ int main()
 {
 	std::cout << "TGMath will be installed in: " << dstDir << std::endl;
 	process();
-	return 0;
+
 	try
 	{
 		std::cout << "Creating directiories..." << std::endl;
